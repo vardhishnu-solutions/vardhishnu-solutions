@@ -33,8 +33,8 @@ We help startups and businesses unlock the power of their data through smart ana
 
 ### 🌐 Connect With Us
 - 📧 Email: **vardhishnusolutions@gmail.com**
-- 🔗 LinkedIn: [Sudarshan Joshi](https://www.linkedin.com/in/YOUR-LINK)
-- 🧠 Kaggle: [kaggle.com/YOUR_USERNAME](https://www.kaggle.com/YOUR_USERNAME)
+- 🔗 LinkedIn: [Sudarshan Joshi]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/sudarshan-joshi-065911211/))
+- 🧠 Kaggle: [kaggle.com/YOUR_USERNAME](https://www.kaggle.com/SudarshanJoshi_ML)
 - 💻 GitHub Projects: Coming soon
 
 ---
